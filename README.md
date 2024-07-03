@@ -49,6 +49,6 @@ In addition to our hosting services, we are also developing **StatroPay**, a cut
 
 ### Get Started
 
-Explore our [website](https://serververse.com) to find out more about our services, pricing, and how we can help you achieve your hosting goals. For any inquiries, feel free to [contact us](mailto:support@serververse.com).
+Explore our [website](https://serververse.com) to find out more about our services, pricing, and how we can help you achieve your hosting goals. For any inquiries, feel free to [contact us](mailto:care@serververse.com).
 
 Thank you for choosing Serververse!
