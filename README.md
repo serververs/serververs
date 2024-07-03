@@ -38,7 +38,7 @@ Serververse is a dynamic server hosting company founded by Aadi Sachan, our Chie
 
 ### Developing StatroPay
 
-In addition to our hosting services, we are also developing **StatroPay**, a cutting-edge billing panel. StatroPay aims to provide an advanced, user-friendly, and highly customizable payment system to enhance the billing and management experience for hosting companies.
+In addition to our hosting services, we are also developing [**StatroPay**](https://github.com/serververs/statropay), a cutting-edge billing panel. StatroPay aims to provide an advanced, user-friendly, and highly customizable payment system to enhance the billing and management experience for hosting companies.
 
 ### Why Choose Serververse?
 
