@@ -5,7 +5,7 @@
 
 ### About Us
 
-Serververse is a dynamic server hosting company founded by Aadi Sachan, our Chief Technical Engineer, at just 15 years old. Despite our humble beginnings, Aadi's dedication and expertise have driven Serververse to offer exceptional hosting services that cater to a variety of needs. Our commitment to quality and affordability makes us a preferred choice for individuals and businesses alike.
+Serververse is a dynamic server hosting company founded by Aadi Sachan, our Chief Technical Engineer. Despite our humble beginnings, Aadi's dedication and expertise have driven Serververse to offer exceptional hosting services that cater to a variety of needs. Our commitment to quality and affordability makes us a preferred choice for individuals and businesses alike.
 
 ### Our Services
 
