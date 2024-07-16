@@ -32,7 +32,7 @@ Serververse is a dynamic server hosting company founded by Aadi Sachan, our Chie
 ### Technology and Tools
 
 - **Game Servers**: Managed through Pterodactyl for a smooth and user-friendly experience.
-- **CMS**: Utilizing Paymenter.org for efficient billing and management.
+- **CMS**: Utilizing [**StatroPay**](https://github.com/serververs/statropay) for efficient billing and management.
 - **VPS Management**: Powered by Proxmox to ensure top-tier performance.
 - **Web Hosting**: Considering CyberPanel for cost-effective and reliable web hosting services.
 
